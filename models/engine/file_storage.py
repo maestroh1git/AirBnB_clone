@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """File Storage Module
-This module is in charge of the storage of the
+This class is in charge of the storage of the
 classes and their management.
 """
 
